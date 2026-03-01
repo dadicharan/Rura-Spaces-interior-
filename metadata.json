@@ -1,0 +1,7 @@
+{
+  "name": "RuRa Spaces - Luxury Interiors",
+  "description": "A premium, high-end website for RuRa Spaces featuring immersive 3D experiences, luxury portfolios, and an AI-powered design consultant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -8,22 +8,22 @@ This project focuses on creating a visually attractive digital presence for an i
 
 **Features**
 
-Responsive Design
+**Responsive Design**
 Fully optimized for desktop, tablet, and mobile devices.
 
-Modern User Interface
+**Modern User Interface**
 Clean and elegant UI that reflects the aesthetics of interior design.
 
-Project Showcase
+**Project Showcase**
 Displays interior design works, inspirations, and transformations.
 
-Service Presentation
+**Service Presentation**
 Highlights different interior design services offered.
 
-Smooth Navigation
+**Smooth Navigation**
 User-friendly navigation to easily explore different sections of the website.
 
-Visual Appeal
+**Visual Appeal**
 High-quality images and layout design to represent interior spaces effectively.
 
 **Technologies Used**
